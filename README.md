@@ -1,9 +1,24 @@
 # ☕ Curso de Java - Udemy  
 
+<img src="img-java/img-1.jpg" alt="App Screenshot" width="100%" height="500"/>
+
 Este repositório foi criado para armazenar meus estudos e práticas realizadas durante o curso de **Java** na **Udemy**.  
 Aqui estão os fundamentos da linguagem, com exemplos práticos e exercícios desenvolvidos ao longo das aulas. **Esse curso está em andamento...**  
 
 ---
+
+##  Referência de estudo
+
+Durante meus estudos, reazlizei o curso da Udemy:
+
+- [Curso de JavaUdemy ](https://www.youtube.com/playlist?list=PL2Fdisxwzt_f5C7Mv0kg1EAHhy2VJLf1c)
+
+
+<p align="center">
+  <img src="img-java/img-2.png" alt="App Screenshot" width="800" align=center/>
+</p>
+
+
 
 ## 📂 Estrutura do Repositório  
 
